@@ -61,7 +61,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
   'logo_only': True,
-  'disply_version': False,
+  'display_version': False,
   'collapse_navigation': True,
 }
 
