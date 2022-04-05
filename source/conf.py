@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My_Study_Jinzita'
-short_project="jinzita"
+project = 'www'
+short_project="www"
 copyright = '2022, zhaojiedi1992@outlook.com'
 author = 'zhaojiedi1992@outlook.com'
 
