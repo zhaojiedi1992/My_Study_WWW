@@ -1,11 +1,11 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-www.linuxpanda.tech
+LinuxPanda
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
    :maxdepth: 3
-   :caption: www.linuxpanda.tech
+   :caption: LinuxPanda
 
-   运维/index
+   ops/index
    dev/index
-   软素质/index
+   sq/index

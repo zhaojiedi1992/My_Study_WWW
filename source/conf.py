@@ -78,6 +78,9 @@ html_context = {
   'github_version': '../edit/main/source/',
 }
 
+# logo
+html_logo="./imgs/sijia.bmp"
+
 # robots 
 html_extra_path = ['robots.txt']
 sitemamp_url= 'https://' +short_project + "." + domain + "/en/latest/sitemap.xml"
@@ -88,14 +91,3 @@ lines = [
 ]
 with open("./robots.txt",'w') as f :
   f.writelines(lines)
-
-
-def create_file():
-  import os 
-  import yaml
-  filename = os.path.join(os.path.dirname(__file__),'cls.yaml').replace("\\","/")
-  f = open(filename)
-  y = yaml.load(f)
-  print(y)
-
-create_file

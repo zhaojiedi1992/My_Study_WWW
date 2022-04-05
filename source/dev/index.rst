@@ -11,3 +11,15 @@ vuejs_
 =======================================
 
 .. _vuejs: https://vuejs.linuxpanda.tech
+
+python_
+=======================================
+
+.. _python: https://python.linuxpanda.tech
+
+bash_
+=======================================
+
+.. _bash: https://bash.linuxpanda.tech
+
+
