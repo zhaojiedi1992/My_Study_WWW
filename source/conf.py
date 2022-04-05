@@ -88,3 +88,14 @@ lines = [
 ]
 with open("./robots.txt",'w') as f :
   f.writelines(lines)
+
+
+def create_file():
+  import os 
+  import yaml
+  filename = os.path.join(os.path.dirname(__file__),'cls.yaml').replace("\\","/")
+  f = open(filename)
+  y = yaml.load(f)
+  print(y)
+
+create_file
