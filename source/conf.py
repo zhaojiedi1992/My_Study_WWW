@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'www'
+project = 'My_Study_WWW'
 short_project="www"
 copyright = '2022, zhaojiedi1992@outlook.com'
 author = 'zhaojiedi1992@outlook.com'
@@ -97,6 +97,4 @@ lines = [
 with open("./robots.txt",'w') as f :
   f.writelines(lines)
 
-rst_epilog = """
-.. |psf| replace:: Python Software Foundation
-"""
+extlinks = {'issue': ('https://www.linuxpanda.tech/')}
