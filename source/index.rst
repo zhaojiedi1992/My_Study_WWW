@@ -7,5 +7,5 @@ www.linuxpanda.tech
    :caption: www.linuxpanda.tech
 
    运维/index
-   开发/index
+   dev/index
    软素质/index
