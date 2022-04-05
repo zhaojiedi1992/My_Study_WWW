@@ -1,9 +1,9 @@
-demo01
+demo02
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
    :maxdepth: 3
-   :caption: demo01
+   :caption: demo02
    :glob:
 
    *
