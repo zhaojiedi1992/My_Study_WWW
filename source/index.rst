@@ -6,6 +6,6 @@ LinuxPanda
    :maxdepth: 0
    :caption: LinuxPanda
 
-   ops/index
-   dev/index
-   sq/index
+   ops/index.rst
+   dev/index.rst
+   sq/index.rst

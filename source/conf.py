@@ -96,3 +96,7 @@ lines = [
 ]
 with open("./robots.txt",'w') as f :
   f.writelines(lines)
+
+rst_epilog = """
+.. |psf| replace:: Python Software Foundation
+"""
