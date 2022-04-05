@@ -2,12 +2,12 @@
 开发
 =======================================
 
-golang: golang_.
+golang_.
 =======================================
 
 ..  _golang: https://go.linuxpanda.tech
 
-vuejs: vuejs_.
+vuejs_.
 =======================================
 
 .. _vuejs: https://vuejs.linuxpanda.tech
