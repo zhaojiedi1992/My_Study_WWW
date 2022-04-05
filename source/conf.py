@@ -82,8 +82,8 @@ html_context = {
 html_extra_path = ['robots.txt']
 sitemamp_url= 'https://' +short_project + "." + domain + "/en/latest/sitemap.xml"
 lines = [
-  "User-agent: *",
-  "",
+  "User-agent: *\n",
+  "\n",
   "Sitemap: "+ sitemamp_url,
 ]
 with open("./robots.txt",'w') as f :
