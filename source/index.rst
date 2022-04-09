@@ -36,5 +36,7 @@ LinuxPanda
 软素质
 
 - 金字塔_
+- 非暴力沟通_
 
 ..  _金字塔: https://jinzita.linuxpanda.tech
+..  _非暴力沟通: https://fblgt.linuxpanda.tech
