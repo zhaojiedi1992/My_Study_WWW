@@ -26,11 +26,13 @@ LinuxPanda
 - golang_
 - vuejs_
 - python_
+- 数据结构_
 
 .. _bash: https://bash.linuxpanda.tech
 .. _golang: https://go.linuxpanda.tech
 .. _vuejs: https://vuejs.linuxpanda.tech
 .. _python: https://python.linuxpanda.tech
+.. _数据结构: https://ds.linuxpanda.tech
 
 
 软素质
