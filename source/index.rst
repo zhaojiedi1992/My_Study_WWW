@@ -39,6 +39,9 @@ LinuxPanda
 
 - 金字塔_
 - 非暴力沟通_
+- 养娃_
 
 ..  _金字塔: https://jinzita.linuxpanda.tech
 ..  _非暴力沟通: https://fblgt.linuxpanda.tech
+.. _养娃: https://yangwa.linuxpanda.tech
+
