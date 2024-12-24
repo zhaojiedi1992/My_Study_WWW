@@ -1,5 +1,5 @@
 git status 
 git add . 
 git commit -m "add"
-gip push
+git push
 git status
